@@ -4,7 +4,7 @@
 </h1>
 
 <h1 align="center">    
-    <img width="80%"src=""/>
+    <img width="80%"src="./MyPortfolio.gif"/>
 </h1>
 
 ## 📖 About
